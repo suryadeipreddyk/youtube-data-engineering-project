@@ -5,8 +5,7 @@
 This project is designed to build a scalable **data engineering pipeline** for processing and analyzing YouTube data using **AWS services**. The pipeline ingests raw data from YouTube, transforms it into a structured format, and stores it for analytics and reporting. The final processed data is used for business intelligence and visualization.
 
 
-For a detailed breakdown of the project, visit the [YouTube Data Engineering Documentation](https://devengine.notion.site/YouTube-Data-Engineering-Project-18e32fa5808880579491ce5e5f96e8d6?pvs=74).
-
+For a detailed breakdown of the project, visit the <a href="https://devengine.notion.site/YouTube-Data-Engineering-Project-18e32fa5808880579491ce5e5f96e8d6?pvs=74" target="_blank">YouTube Data Engineering Documentation</a>.
 
 **Dataset:** https://www.kaggle.com/datasets/datasnaek/youtube-new
 
