@@ -1,4 +1,4 @@
-# [YouTube Data Engineering Project](https://devengine.notion.site/YouTube-Data-Engineering-Project-18e32fa5808880579491ce5e5f96e8d6?pvs=74)
+# YouTube Data Engineering Project
 
 ### Project Overview
 ----
