@@ -18,6 +18,7 @@ The AWS-based data architecture enables efficient data ingestion, processing, an
 3. **Data Storage**: Processed data is stored in **S3** and cataloged in the **AWS Glue Data Catalog** for querying via **AWS Athena**.
 4. **Security & Monitoring**: Security is managed with **IAM**, and monitoring is done via **CloudWatch**.
 5. **Analytics & Visualization**: The final data is used for analysis using **QuickSight, Power BI, and Qlik**.
+![Alt Text](https://github.com/suryadeipreddyk/youtube-data-engineering-project/blob/main/Youtube%20Data%20Engineering%20Architecture.png)
 
 
 ### Tools & Technologies
